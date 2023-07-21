@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThussharC
 - 👀 I’m interested in Web Development and ROS
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Javascript, Node.js, Express and React
 - 💞️ I’m looking to collaborate on HTML and CSS
 - 📫 How to reach me ...
 
